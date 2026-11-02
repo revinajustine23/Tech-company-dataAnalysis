@@ -29,5 +29,12 @@ Through the Power BI dashboard developed for Tech Company, I performed a deep-di
 
   ![Category Revenue Dashboard](revenue%201.png)
 
+### 🌍 Customer Geographic Distribution
+
+This pie chart illustrates the regional breakdown of our customer base across major cities, highlighting key market concentrations:
+
+* **Top Markets:** **Arusha** leads with **14 customers (28%)**, closely followed by **Kilimanjaro** with **13 customers (26%)**, making northern Tanzania the primary hub for business activity.
+* **Expanding Regions:** Steady engagement is observed in **Dar es Salaam (9 customers / 18%)** and **Zanzibar (7 customers / 14%)**.
+* **Emerging Markets:** Regional reach extends to **Dodoma (4 customers / 8%)** and **Mwanza (3 customers / 6%)**, presenting future growth opportunities.
 ##  Region Focus
 Designed & executed from **Arusha, Tanzania**.
