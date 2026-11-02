@@ -20,6 +20,14 @@ This project presents an end-to-end data analytics workflow for a fictional **Te
 4. **Power BI Dashboard:** Executive visuals displaying regional sales metrics and performance breakdown.
 
 ---
+### 📊 Product Sales Performance & Revenue Analysis
+
+Through the Power BI dashboard developed for Tech Company, I performed a deep-dive analysis into product category revenues to identify purchasing trends and top-performing merchandise:
+
+* **Top-Performing Products (High Sales):** The **Computers** category overwhelmingly leads the market, generating the highest total revenue of **5.7K**. This indicates strong customer demand and serves as the primary revenue driver for the business. It is closely followed by **Accessories (1.6K)** and **Displays (1.4K)** as steady secondary revenue streams.
+* **Low-Performing Products (Low Sales):** Conversely, the **Storage** category recorded the lowest performance, bringing in **0.4K** in revenue. This insight highlights an opportunity for management to either bundle storage products with high-selling computers or revise pricing strategies to boost its market uptake.
+
+  ![Category Revenue Dashboard](revenue 2.png)
 
 ##  Region Focus
 Designed & executed from **Arusha, Tanzania**.
