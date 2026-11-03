@@ -39,14 +39,16 @@ This pie chart illustrates the regional breakdown of our customer base across ma
 * 
 ![customers city](customers%20city.png)
 
-### 💎 Top Customers & Spending Analysis
+### 📊 Advanced SQL Analysis: Top Customer Spending
 
-To understand high-value clients, I queried customer purchasing power to identify top spenders:
+To extract deep insights from the relational database, I wrote an multi-table SQL query that joins the `customers`, `orders`, and `products` tables. This calculates the total spending per customer by multiplying the quantity ordered by the product price, and then groups and sorts the data in descending order.
 
-* **Top Spenders:** **Amina Juma**, **Neema Lema**, **Grace Ndunguru**, and **Zubeda Hamisi** tie at the top, each recording a maximum total spend of **1,200.00** across their respective regions (Dar es Salaam and Kilimanjaro).
-* **Local Engagement:** **Baraka Mushi** represents key local buyer activity from **Arusha** with a total spend of **360.00**.
+* **SQL Query Implementation:**
+ <img width="379" height="275" alt="Queries" src="https://github.com/user-attachments/assets/6bd74891-fc12-49fe-8e90-767644ff6428" />
 
-![vip customers](vip%20customers.png)
+* **Query Output & Results:**
+ <img width="297" height="446" alt="customers" src="https://github.com/user-attachments/assets/ded8aa55-5288-471a-a571-8f7fff7511f3" />
+
 
 ##  Region Focus
 Designed & executed from **Arusha, Tanzania**.
