@@ -1,4 +1,4 @@
-# Tech-company-dataAnalysis
+c# Tech-company-dataAnalysis
 # Tech Company Data Analysis & Relational Database
 
 ##  Project Overview
@@ -46,7 +46,7 @@ To understand high-value clients, I queried customer purchasing power to identif
 * **Top Spenders:** **Amina Juma**, **Neema Lema**, **Grace Ndunguru**, and **Zubeda Hamisi** tie at the top, each recording a maximum total spend of **1,200.00** across their respective regions (Dar es Salaam and Kilimanjaro).
 * **Local Engagement:** **Baraka Mushi** represents key local buyer activity from **Arusha** with a total spend of **360.00**.
 
-![vip customers](
+![vip customers](vip%20customers.png)
 
 ##  Region Focus
 Designed & executed from **Arusha, Tanzania**.
