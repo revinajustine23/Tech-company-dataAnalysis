@@ -36,6 +36,15 @@ This pie chart illustrates the regional breakdown of our customer base across ma
 * **Top Markets:** **Arusha** leads with **14 customers (28%)**, closely followed by **Kilimanjaro** with **13 customers (26%)**, making northern Tanzania the primary hub for business activity.
 * **Expanding Regions:** Steady engagement is observed in **Dar es Salaam (9 customers / 18%)** and **Zanzibar (7 customers / 14%)**.
 * **Emerging Markets:** Regional reach extends to **Dodoma (4 customers / 8%)** and **Mwanza (3 customers / 6%)**, presenting future growth opportunities.
+* 
 ![customers city](customers%20city.png)
+
+### 💎 Top Customers & Spending Analysis
+
+To understand high-value clients, I queried customer purchasing power to identify top spenders:
+
+* **Top Spenders:** **Amina Juma**, **Neema Lema**, **Grace Ndunguru**, and **Zubeda Hamisi** tie at the top, each recording a maximum total spend of **1,200.00** across their respective regions (Dar es Salaam and Kilimanjaro).
+* **Local Engagement:** **Baraka Mushi** represents key local buyer activity from **Arusha** with a total spend of **360.00**.
+
 ##  Region Focus
 Designed & executed from **Arusha, Tanzania**.
